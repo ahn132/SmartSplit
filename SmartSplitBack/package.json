@@ -1,0 +1,15 @@
+{
+  "name": "smartsplitback",
+  "version": "1.0.0",
+  "description": "backend for Smart Split",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sun Ahn",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2"
+  }
+}
